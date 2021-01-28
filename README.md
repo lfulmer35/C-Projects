@@ -3,4 +3,4 @@ C# Projects
 
 Learning C#
 
-Just playing around
+Each branch will be a separate project.
